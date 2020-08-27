@@ -736,6 +736,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftIcons](https://github.com/ranesr/SwiftIcons) - Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.
 * [SYSymbol](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
 * [UIFontComplete](https://github.com/Nirma/UIFontComplete) - Font management (System & Custom) for iOS and tvOS.
+* [FontIcon](https://github.com/huybuidac/SwiftUIFontIcon) - FontAwesome, ionicons, material icons fonts for SwiftUI
 
 ### Game Engine
 [back to top](#readme) 
